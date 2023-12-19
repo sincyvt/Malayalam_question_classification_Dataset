@@ -1,5 +1,5 @@
 category: data
-filename: train.csv
+filename: modified_train.csv
 weight: 2
 title: MalayalamQC
 description: Transactions in December 2023
