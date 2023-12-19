@@ -1,0 +1,6 @@
+category: data
+filename: test.csv
+weight: 2
+title: MalayalamQC
+description: Transactions in December 2023
+type: text/csv
